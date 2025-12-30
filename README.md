@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Nabeel 👋
+Aspiring Data Analyst (Remote) | Python • SQL • Pandas • Power BI
 
-<!--
-**mnarepo/mnarepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 30-Day Learning Sprint
+- Repo: python-refresh-30days
+- Goal: Build 2 portfolio projects + strong SQL
 
-Here are some ideas to get you started:
+### Projects (coming soon)
+- Sales Analysis (Python + Pandas + Visualization)
+- SQL Case Study (joins, window functions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- LinkedIn: www.linkedin.com/in/nabeel-ahmad-3b696516b
