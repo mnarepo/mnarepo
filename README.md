@@ -1,13 +1,20 @@
+
 ## Hi, I'm Nabeel 👋
-Aspiring Data Analyst (Remote) | Python • SQL • Pandas • Power BI
+Aspiring **Remote Data Analyst** | Python • SQL • Power BI • Pandas
 
-### 30-Day Learning Sprint
-- Repo: python-refresh-30days
-- Goal: Build 2 portfolio projects + strong SQL
+### Current Focus (Daily)
+- Python refresh + practice
+- SQL practice (daily)
+- Power BI dashboards (weekly)
 
-### Projects (coming soon)
-- Sales Analysis (Python + Pandas + Visualization)
-- SQL Case Study (joins, window functions)
+### Featured Repos
+- Python 30-Day Sprint: https://github.com/mnarepo/python-refresh-30days
+- Power BI Dashboard: https://github.com/mnarepo/powerbi-sales-dashboard
+- Python Sales EDA: https://github.com/mnarepo/python-sales-eda
+
+### What I'm Building
+- Clean GitHub portfolio with real projects
+- Strong analytics skills for international/remote roles
 
 ### Skills I'm building
 - Python (Pandas, NumPy)
