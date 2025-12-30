@@ -9,5 +9,10 @@ Aspiring Data Analyst (Remote) | Python • SQL • Pandas • Power BI
 - Sales Analysis (Python + Pandas + Visualization)
 - SQL Case Study (joins, window functions)
 
+### Skills I'm building
+- Python (Pandas, NumPy)
+- SQL (Joins, Group By, Window Functions)
+- Power BI (Data modeling, DAX, Dashboards)
+
 ### Contact
 - LinkedIn: www.linkedin.com/in/nabeel-ahmad-3b696516b
