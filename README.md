@@ -1,6 +1,6 @@
 
 ## Hi, I'm Nabeel 👋
-Aspiring **Remote Data Analyst** | Python • SQL • Power BI • Pandas
+Remote Data Analyst in training | Python • SQL • Power BI • Pandas | React/JS background
 
 ### Current Focus (Daily)
 - Python refresh + practice
