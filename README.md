@@ -71,9 +71,7 @@ A structured Python practice repository covering core Python concepts, problem s
 
 ---
 
-## 📌 Featured Repository Strategy
-
-For the strongest recruiter-facing profile, I recommend pinning these repositories:
+## 📌 Featured Repository
 
 1. `CodeAlpha_NetworkIntrusionDetectionSystem`
 2. `CodeAlpha_SecureCodingReview`
